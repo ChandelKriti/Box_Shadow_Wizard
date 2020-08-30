@@ -4,13 +4,13 @@ Add perfect shadows to images  for an aid in designing.
 
 # Installation
 
-`npm i shadowWizard --save`
+`npm i npm-shadowwizard --save`
 
 Usage....
 
 ```
 
-import {shadowizard} from 'shadowizard';
+import {shadowizard} from 'npm-shadowwizard';
 
 shadowizard({
     shadow_type: 'soft',
